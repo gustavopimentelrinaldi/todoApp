@@ -1,4 +1,4 @@
-# TodoApp Dependencies
+# TodoApp Technologies
 
 * MongoDB
 * NodeJS
