@@ -4,7 +4,7 @@
 * NodeJS
 * React
 
-# Dev Dependencies
+# Dev Dependencies(BackEnd)
 ```
 "body-parser": "^1.15.2",
 "express": "^4.14.0",
@@ -14,9 +14,10 @@
 "pm2": "^2.1.5"
 ```
 
-# How to run
+# How to run(BackEnd)(API)
 ```
 git clone git@github.com:gustavopimentelrinaldi/todoApp.git
+cd backend
 ```
 ```
 npm i -g npm
@@ -29,3 +30,21 @@ sudo mongod (keep running)
 command -> npm run dev
 ```
 Access localhost:3003/api/todos
+*****************************************************
+# Dev Dependencies(FrontEnd)
+```
+void
+```
+# How to run(FrontEnd)(App)
+```
+git clone git@github.com:gustavopimentelrinaldi/todoApp.git
+cd frontend
+```
+```
+npm i -g npm
+npm i
+```
+```
+command -> void
+```
+Access (void)
