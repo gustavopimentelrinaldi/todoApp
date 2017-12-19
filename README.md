@@ -29,11 +29,15 @@ sudo mongod (keep running)
 ```
 command -> npm run dev
 ```
-Access localhost:3003/api/todos
+Access (http://localhost:3003/api/todos)
 *****************************************************
 # Dev Dependencies(FrontEnd)
 ```
-void
+"react": "^16.2.0",
+"react-bootstrap": "^0.31.5",
+"react-dom": "^16.2.0",
+"react-router": "^3.2.0",
+"react-scripts": "1.0.17"
 ```
 # How to run(FrontEnd)(App)
 ```
@@ -45,6 +49,6 @@ npm i -g npm
 npm i
 ```
 ```
-command -> void
+command -> npm start
 ```
-Access (void)
+Access (http://localhost:3000)
