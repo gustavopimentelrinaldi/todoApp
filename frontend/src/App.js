@@ -1,13 +1,11 @@
 import React from 'react';
-import Todo from './todo/todo'
-import About from './todo/about'
 import Menu from './template/menu'
 import 'react-bootstrap/dist/bootstrap.min.css';
+import Routes from './routes'
 
 export default props => (
-  <div>
+  <main>
     <Menu/>
-    <Todo/>
-    <About/>
-  </div>
+    <Routes/>
+  </main>
 )
