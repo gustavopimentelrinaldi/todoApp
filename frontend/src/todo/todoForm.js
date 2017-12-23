@@ -10,5 +10,6 @@ export default props => (
 			</span>
 		</div>
 	</div>
+	<br/>
 </form>
 )
