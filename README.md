@@ -24,7 +24,8 @@ npm i -g npm
 npm i
 ```
 ```
-sudo mongod (keep running)
+sudo mkdir -p /data/db
+sudo mongod --port 7600 (keep running)
 ```
 ```
 command -> npm run dev
