@@ -1,0 +1,21 @@
+.list{
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+.markedAsDone{
+  text-decoration: line-through;
+  color: #777;
+}
+
+.hide{
+  display: none;
+}
+
+.input-group-addon{
+  border-radius: 5px 0 0 5px;
+}
+
+.todoForm{
+  padding-bottom: 1em;
+}
