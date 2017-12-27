@@ -34,6 +34,7 @@ Access (http://localhost:3003/api/todos)
 *****************************************************
 # Dev Dependencies(FrontEnd)
 ```
+"axios": "^0.17.1",
 "react": "^16.2.0",
 "react-bootstrap": "^0.31.5",
 "react-dom": "^16.2.0",
